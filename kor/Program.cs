@@ -10,6 +10,7 @@ namespace kor
     {
         static void Main(string[] args)
         {
+            //valami komment
         }
     }
 }
